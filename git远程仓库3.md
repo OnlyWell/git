@@ -10,5 +10,8 @@
 >>>> - 1.关联一个远程仓库: git remote add origin https://github.com/OnlyWell/git.git
 >>>> - 2.关联后,使用命令git push -u orign master第一次推送master分支的所有内容
 >>>> - 3.之后如果有必要直接使用 git push origin master推送最新修改
-
+#### ----------------------------------------------------------
+#####1.从远程仓库克隆
+>>>>> - git clone git@github.com/OnlyWell/git.git
+>>>>> - git支持多种协议,包括https,如:git clone https://github.com/OnlyWell/git.git
 
